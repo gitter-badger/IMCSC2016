@@ -31,11 +31,11 @@
 
 2.2 -  Karlheinz Stockhausen - **Gesang der Jünglinge** [1954]
 
-• [documentazione](https://www.dropbox.com/s/2uzvhhd87i531m4/Studio2.pdf?dl=0)
+• [documentazione](https://www.dropbox.com/s/igcfra4z1y6b7r2/Gesang.pdf?dl=0)
 
 • [analisi e partitura](https://www.dropbox.com/s/3wro5aw07z1u0u9/StudieII.pdf?dl=0)
 
-• [audio](https://youtu.be/bwj6ZptPnDo)
+• [audio](https://www.youtube.com/watch?v=s7HD-95knVQ)
 
 2.3 - Luciano Berio -  **Thema - Omaggio a Joyce**  [1958-59]
 
