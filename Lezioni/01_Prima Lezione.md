@@ -1,5 +1,5 @@
-### LEZIONE I
+# LEZIONE I
 ## Breve Storia della Musica Elettroacustica
-# Introduzione al Linguaggio ed al Mezzo Elettronico
+##Introduzione al Linguaggio ed al Mezzo Elettronico
 
-#Ascolti
+###Ascolti
