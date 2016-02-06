@@ -50,7 +50,7 @@
 
 • [esecuzione](https://youtu.be/DrgBBjNbeQM)
 
-2.5 - John Chowning - **Turenas**[1972]
+2.5 - John Chowning - **Turenas** [1972]
 
 • [documentazione](https://www.academia.edu/5497062/Chowning_e_la_sintesi_FM._Analisi_di_Turenas)
 
