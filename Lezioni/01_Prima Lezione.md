@@ -1,7 +1,7 @@
 #IMCSC2016
 ## LEZIONE I
 ###Storia della Musica Elettroacustica
-** Introduzione al Linguaggio ed al Mezzo Elettronico**
+***Introduzione al Linguaggio ed al Mezzo Elettronico***
 
 ####1. Argomenti:
 1.1 - Pierre Schaffer e la Musica Concreta a Parigi [1948]
