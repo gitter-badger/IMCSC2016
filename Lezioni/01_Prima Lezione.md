@@ -1,6 +1,7 @@
 #IMCSC2016
 ## LEZIONE I
-###Storia della Musica Elettroacustica - Introduzione al Linguaggio ed al Mezzo Elettronico
+###Storia della Musica Elettroacustica
+** Introduzione al Linguaggio ed al Mezzo Elettronico**
 
 ####1. Argomenti:
 1.1 - Pierre Schaffer e la Musica Concreta a Parigi [1948]
@@ -65,14 +66,14 @@
 • [esecuzione](https://youtu.be/TMYDgwNALY8)
 
 
-2.7 - Michelangelo Lupone - **Gran Cassa**[2006]
+2.7 - Michelangelo Lupone - **Gran Cassa** [2006]
 
 • [partitura](https://www.dropbox.com/s/46pbj0kx7dis1hn/GC.pdf?dl=0)
 
 • [documentazione](https://www.dropbox.com/s/ne73pr55nm2ef3v/GranCassa_0.pdf?dl=0)
 
 • [esecuzione - Parte I](https://youtu.be/chhxK_RhZIk)
-• [esecuzione - Parte II](https://youtu.be/G41JGAYsgsg)
+• [Parte II](https://youtu.be/G41JGAYsgsg)
 
 
 ####3. Dispense:
