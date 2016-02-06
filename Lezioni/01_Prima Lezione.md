@@ -79,7 +79,7 @@
 ####3.Riassunto della Lezione I:
 3.1 [**Riassunto della Prima Lezione**](http://conservatoriosantacecilia.academia.edu/PasqualeCitera)
 
-3.2 [**Slide**](https://www.dropbox.com/s/jh6z8qrej02ru6h/IMCSC2016_SLIDE.mov?dl=0)(Filmato Riassuntivo)
+3.2 [**Slide**](https://www.dropbox.com/s/jh6z8qrej02ru6h/IMCSC2016_SLIDE.mov?dl=0) (Filmato Riassuntivo)
 
 ####4. Prima Tesina:
 Tra gli ascolti proposti, si scelga un solo brano e se ne compili una breve analisi comprendente un quadro storico, una descrizione del brano e delle impressioni personali basate sull'esperienza all'ascolto.  
