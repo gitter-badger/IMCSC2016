@@ -35,7 +35,7 @@
 
 • [analisi e partitura](https://www.dropbox.com/s/3wro5aw07z1u0u9/StudieII.pdf?dl=0)
 
-• [audio](https://www.youtube.com/watch?v=s7HD-95knVQ)
+• [audio](https://youtu.be/UmGIiBfWI0E)
 
 2.3 - Luciano Berio -  **Thema - Omaggio a Joyce**  [1958-59]
 
