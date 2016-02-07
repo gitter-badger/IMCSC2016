@@ -1,4 +1,3 @@
-# IMCSC2016
-### Corso di Informatica Musicale del Conservatorio di Santa Cecilia - 2016
+## IMCSC2016
 
-- [Lezione 1](https://github.com/Paxxx/IMCSC2016/blob/master/Lezioni/01_Prima%20Lezione.md)
+[Qui](http://citera.xyz/IMCSC2016) troverai tutto il materiale necessario per le lezioni di *informatica musicale* per il corso di Pasquale Citera.
