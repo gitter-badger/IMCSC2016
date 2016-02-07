@@ -3,6 +3,9 @@ title: IMCSC2016
 tag_text: IMCSC2016
 description: Informatica Musicale - Conservatorio Santa Cecila
 
+url: http://citera.xyz
+baseurl: '/IMCSC2016'
+
 # Build settings
 markdown: kramdown
 
