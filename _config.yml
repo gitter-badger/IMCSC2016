@@ -1,0 +1,9 @@
+# Site settings
+title: IMCSC2016
+tag_text: IMCSC2016
+description: Informatica Musicale - Conservatorio Santa Cecila
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]

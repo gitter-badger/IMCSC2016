@@ -1,3 +1,8 @@
+---
+layout: default
+title: IMCSC2016 - LEZIONE1
+---
+
 #IMCSC2016
 ## LEZIONE I
 ###Storia della Musica Elettroacustica
