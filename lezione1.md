@@ -20,7 +20,7 @@ title: IMCSC2016
 3. Luciano Berio e Bruno Maderna nello Studio di Fonologia di Milano [1955]
   - [documentazione](https://www.dropbox.com/s/kxbbbf2j59qqdtd/milano.pdf?dl=0)
 
-4. - La Computer Music negli Stati Uniti [1960]
+4. La Computer Music negli Stati Uniti [1960]
   - [documentazione](https://www.dropbox.com/s/x36bdn8tw87tdwl/usa.pdf?dl=0)
 
 #### 2. Ascolti:
