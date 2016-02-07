@@ -10,15 +10,15 @@
 
 1.2 - Karlheinz Stockhausen e la Musica Elettronica [1953]
 
-• [documentazione](https://www.dropbox.com/s/o51objrqhkbl27t/Musica_Concreta.pdf?dl=0)
+• [documentazione](https://www.dropbox.com/s/iw8rute8n6t2fak/colonia.pdf?dl=0)
 
 1.3 - Luciano Berio e Bruno Maderna nello Studio di Fonologia di Milano [1955]
 
-• [documentazione](https://www.dropbox.com/s/o51objrqhkbl27t/Musica_Concreta.pdf?dl=0)
+• [documentazione](https://www.dropbox.com/s/kxbbbf2j59qqdtd/milano.pdf?dl=0)
 
 1.4 - La Computer Music negli Stati Uniti [1960]
 
-• [documentazione](https://www.dropbox.com/s/o51objrqhkbl27t/Musica_Concreta.pdf?dl=0)
+• [documentazione](https://www.dropbox.com/s/x36bdn8tw87tdwl/usa.pdf?dl=0)
 
 ####2. Ascolti:
 2.1 - Karlheinz Stockhausen -  [1954] **Studio II**
@@ -76,8 +76,10 @@
 • [Parte II](https://youtu.be/G41JGAYsgsg)
 
 
-####3. Dispense:
-[**Riassunto della Prima Lezione**](http://conservatoriosantacecilia.academia.edu/PasqualeCitera)
+####3.Riassunto della Lezione I:
+3.1 [**Riassunto della Prima Lezione**](http://conservatoriosantacecilia.academia.edu/PasqualeCitera)
+
+3.2 [**Slide**](https://www.dropbox.com/s/jh6z8qrej02ru6h/IMCSC2016_SLIDE.mov?dl=0) (Filmato Riassuntivo)
 
 ####4. Prima Tesina:
 Tra gli ascolti proposti, si scelga un solo brano e se ne compili una breve analisi comprendente un quadro storico, una descrizione del brano e delle impressioni personali basate sull'esperienza all'ascolto.  
