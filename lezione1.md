@@ -61,7 +61,7 @@ title: IMCSC2016
 
 #### 3.Riassunto della Lezione I:
 
-1. [**Riassunto della Prima Lezione**](http://conservatoriosantacecilia.academia.edu/PasqualeCitera)
+1. [**Riassunto della Prima Lezione**](https://www.academia.edu/21693947/INFORMATICA_MUSICALE_-2016_-_LEZIONE_I)
 2. [**Slide**](https://www.dropbox.com/s/jh6z8qrej02ru6h/IMCSC2016_SLIDE.mov?dl=0) (Filmato Riassuntivo)
 
 #### 4. Prima Tesina:
